@@ -1,0 +1,38 @@
+_repo: The-Buried-Temple_19711
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Sutro, Alfred
+    alias: Sutro, Alfredo
+    birthdate: 1863
+    deathdate: 1933
+    gutenberg_agent_id: '1460'
+    url: http://www.gutenberg.org/2009/agents/1460
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Sutro
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Maeterlinck, Maurice
+    birthdate: 1862
+    deathdate: 1949
+    gutenberg_agent_id: '795'
+    url: http://www.gutenberg.org/2009/agents/795
+    wikipedia: http://en.wikipedia.org/wiki/Maurice_Maeterlinck
+description: 'Translation of: Le temple enseveli'
+gutenberg_issued: '2006-11-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19711'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Essays'
+tableOfContents: The mystery of justice -- The evolution of mystery -- The kingdom
+  of matter -- The past -- Luck.
+title: The Buried Temple
+url: http://www.gutenberg.org/ebooks/19711
